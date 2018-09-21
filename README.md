@@ -1,5 +1,4 @@
-# Machine learning course project:
-# How well do you barbell lifts?
+# Machine learning project: How well do you barbell lifts?
 
 This R Markdown describes the steps following to create a prediction model. You can find the R code in the projectML.HTML.
 
@@ -40,9 +39,45 @@ Comparing **accuracy** for testing set, random forest method is better, 99.09% v
 ## Use prediction model on the test data
 Applying random forest method to predict 20 different test cases, the result was:
 
- 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+ 1: B
  
- B  A  B  A  A  E  D  B  A  A  B  C  B  A  E  E  A  B  B  B
+ 2: A
+ 
+ 3: B
+ 
+ 4: A
+ 
+ 5: A
+ 
+ 6: E
+ 
+ 7: D
+ 
+ 8: B
+ 
+ 9: A
+ 
+ 10: A
+ 
+ 11: B
+ 
+ 12: C
+ 
+ 13: B
+ 
+ 14: A
+ 
+ 15: E
+ 
+ 16: E
+ 
+ 17: A
+ 
+ 18: B
+ 
+ 19: B
+ 
+ 20: B
  
  ## Conclusions
 In this project has been appliyed cross-validation in traning data (19622 observations), 70% of the total observations to build a prediction model, and the rest of 30% of the observations to model validation.
