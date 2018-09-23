@@ -367,7 +367,7 @@ rfModelTree <- rpart(classe ~., data = training, method="class")
 prp(rfModelTree,main="Classification Tree")
 ```
 
-![plot of chunk unnamed-chunk-14](figure/unnamed-chunk-14-1.png)
+![Classification_Tree](figure/Classification_Tree.png)
 
 ### Run the Prediction Model on the Test Data
 Finally, use the random forest prediction model to predict 20 different test cases:
