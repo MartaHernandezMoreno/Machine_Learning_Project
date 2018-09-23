@@ -1,6 +1,6 @@
 # Machine learning project: How well do you barbell lifts?
 
-This R Markdown describes the steps following to create a prediction model. You can find the R code in the *MLproject.html* and *MLproject.Rmd*
+This R Markdown describes the steps following to create a prediction model. You can find the R code in the *MLproject.html* and *MLproject.md*
 
 ## Summary
 One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways:
